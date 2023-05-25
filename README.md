@@ -87,3 +87,7 @@ Alinhamento, variáveis, interpolação, for, while, each, funções, mixin, her
 Componentes, botões, entrada de dados, data biding, angular, grids, navegação e modelo.
 <h3>WordPress</h3>
 Instalação, temas, personalização, plugins, usuários, comentários, criador de páginas com elementor.
+
+
+<h2>Projetos</h2>
+<img src="/images_readme/projeto1.png">
