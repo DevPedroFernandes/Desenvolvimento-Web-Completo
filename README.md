@@ -20,7 +20,7 @@
 
 Aprender a criar aplicações web utilizando tecnologias como HTML5, CSS3, Bootstrap 4, JavaScript (ES6 e ES7), PHP 7, MySQL, jQuery, MVC, API, Ionic e Wordpress.
 -Integrar as tecnologias mencionadas acima por meio de projetos reais, desenvolvendo habilidades práticas e construindo aplicações completas.
--Descubrir como transformar suas habilidades em desenvolvimento web em uma atividade remunerada, permitindo que você trabalhe de qualquer lugar do mundo.
+<br>
 -Criar aplicações móveis conectadas a aplicações web utilizando a tecnologia Ionic.
 
 <h2> Tópicos Abordados </h2>
@@ -34,26 +34,31 @@ Tags semânticas: header, nav, footer, article, section, aside
 CSS3 Intermediário</h3>
 Seletores, div & span, cores, modelo de caixa, elementos flutuantes, posicionamento
 Formatação de links
-CSS3 Avançado
+<h3>CSS3 Avançado</h3>
+
 Herança, especificidade
 Barra de navegação vertical e horizontal, abas, layouts líquidos, largura fixa
 Parallax, fontes customizadas
 Recursos especiais: normalize CSS, cantos arredondados, degradês, sombras, animações, transições, flexbox
-Bootstrap
+<h3>Bootstrap</h3>
+
 Responsividade
 Textos, alinhamentos, cores
 Media queries
 Botões, barras de navegação, listas, inputs, alertas, tabelas, cards, grids, flexbox
-JavaScript
+<h3>JavaScript
+</h3>
 Variáveis, arrays, condicionais
 Operadores de comparação e lógicos
 Funções, eventos, DOM, loops, BOM
-ES6
+<h3>ES6/ES7</h3>
+
 Var e let
 Orientação a objetos
 Literais, prototype
 Web storage, funções de array
-PHP7
+<h3>PHP7</h3>
+
 Variáveis, arrays, condicionais
 Operadores de comparação e lógicos
 Funções, orientação a objetos
@@ -62,7 +67,8 @@ Banco de Dados MySQL
 Inserção, atualização, seleção, exclusão
 Filtros, operadores de comparação e lógicos
 Relacionamentos, inner join, left join, right join
-Ajax
+<h3>Ajax</h3>
+
 Requisições síncronas e assíncronas
 XMLHttpRequest
 Estados da requisição, status
@@ -75,13 +81,15 @@ Prevenção de SQL injection
 Publicação de Aplicações Web na Internet
 DNS, hospedagem, cPanel, FTP
 Configuração do PHP e MySQL
-jQuery
+<h3>jQuery</h3>
+
 Seleção e manipulação de elementos HTML
 Navegação entre elementos
 Manipulação de CSS
 Eventos de teclado, mouse e formulário
 Animações, Ajax
-MVC com PHP
+<h3>MVC com PHP</h3>
+
 Composer, controlador, rota, modelo, visão
 Abstração, reutilização de layout
 Conexão com banco de dados
@@ -92,23 +100,27 @@ Pesquisa de usuários
 Exibição de tweets
 Seguir e deixar de seguir usuários
 Paginação
-API com Framework Slim
+<h3>API com Framework Slim</h3>
+
 Requisições, rotas, dependências
 Middleware, respostas
 Banco de dados
 Criação de API
-Sass
+<h3>Sass</h3>
+
 Alinhamento, variáveis, interpolação
 Estruturas de controle: for, while, each
 Funções, mixin, herança
 Diretivas de controle
+<h3></h3>
 Ionic
 Componentes, botões
 Entrada de dados
 Data binding
 Angular, grids
 Navegação e modelos
-WordPress
+<h3>WordPress</h3>
+
 Instalação
 Temas, personalização
 Plugins
