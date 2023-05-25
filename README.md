@@ -89,5 +89,7 @@ Componentes, botões, entrada de dados, data biding, angular, grids, navegação
 Instalação, temas, personalização, plugins, usuários, comentários, criador de páginas com elementor.
 
 
-<h2>Projetos</h2>
-<img src="/images_readme/projeto1.png">
+### Projetos
+- Projeto 01 - Página com HTML utilizando tabelas
+<img src="images_readme/projeto1.png"  width="50%" height="50%"> 
+
