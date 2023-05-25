@@ -93,3 +93,5 @@ Instalação, temas, personalização, plugins, usuários, comentários, criador
 - Projeto 01 - Página com HTML utilizando tabelas
 <img src="images_readme/projeto1.png"  width="50%" height="50%"> 
 
+- Projeto 02 - Pagina com HTML e CSS
+<img src="images_readme/projeto02.png"  width="50%" height="50%"> 
