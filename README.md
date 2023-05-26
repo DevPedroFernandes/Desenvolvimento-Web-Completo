@@ -90,14 +90,17 @@ Instalação, temas, personalização, plugins, usuários, comentários, criador
 
 
 ### Projetos
-- Projeto 01 - Página com HTML utilizando tabelas - UNES
+- Projeto 01 - UNES
 <img src="images_readme/projeto1.png"  width="50%" height="50%"> 
 
-- Projeto 02 - Pagina com HTML e CSS - Anna Bella
+- Projeto 02 - Anna Bella
 <img src="images_readme/projeto02.png"  width="50%" height="50%"> 
 
-- Projeto 03 - Pagina com HTML e CSS - Chalé Hotel
--<img src="images_readme/projeto03.png"  width="50%" height="50%"> 
+- Projeto 03 - Chalé Hotel
+<img src="images_readme/projeto03.png"  width="50%" height="50%"> 
 
-- Projeto 03 - Pagina com HTML e CSS - Noticias da Cidade
--<img src="images_readme/projeto04.png"  width="50%" height="50%"> 
+- Projeto 04 - Noticias da Cidade
+<img src="images_readme/projeto04.png"  width="50%" height="50%"> 
+
+- Projeto 05 - TecBlog
+<img src="images_readme/projeto05.png"  width="50%" height="50%"> 
