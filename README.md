@@ -97,7 +97,7 @@ Instalação, temas, personalização, plugins, usuários, comentários, criador
 <img src="images_readme/projeto02.png"  width="50%" height="50%"> 
 
 - Projeto 03 - Pagina com HTML e CSS - Chalé Hotel
--<img src="images_readme/projeto02.png"  width="50%" height="50%"> 
+-<img src="images_readme/projeto03.png"  width="50%" height="50%"> 
 
 - Projeto 03 - Pagina com HTML e CSS - Noticias da Cidade
--<img src="images_readme/projeto03.png"  width="50%" height="50%"> 
+-<img src="images_readme/projeto04.png"  width="50%" height="50%"> 
