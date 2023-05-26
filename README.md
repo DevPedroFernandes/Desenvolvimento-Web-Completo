@@ -107,3 +107,7 @@ Instalação, temas, personalização, plugins, usuários, comentários, criador
 
 - Projeto 06 - Museu Nacional
 <img src="images_readme/projeto06.png"  width="50%" height="50%"> 
+
+
+- Projeto 06 - Spotify
+<img src="images_readme/projeto07.png"  width="50%" height="50%"> 
