@@ -104,3 +104,6 @@ Instalação, temas, personalização, plugins, usuários, comentários, criador
 
 - Projeto 05 - TecBlog
 <img src="images_readme/projeto05.png"  width="50%" height="50%"> 
+
+- Projeto 06 - Museu Nacional
+<img src="images_readme/projeto06.png"  width="50%" height="50%"> 
