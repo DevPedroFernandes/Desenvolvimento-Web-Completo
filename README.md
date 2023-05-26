@@ -4,11 +4,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/pedro-fernandes-the-decoder/collections/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pedro-fernandes-the-decoder/collections/" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/pedrofernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pedrofernandes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-fernandes-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-fernandes-c/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@devpedrofernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@devpedrofernandes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmedag_qrwyno_9kln2qzma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmedag_qrwyno_9kln2qzma" height="30" width="40" /></a>
+<a href="https://codepen.io/pedro-fernandes-the-decoder/collections/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pedro-fernandes-the-decoder/collections/" height="30" width="40" /></a>
+<a href="https://dev.to/pedrofernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pedrofernandes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-fernandes-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-fernandes-c/" height="30" width="40" /></a>
+<a href="https://medium.com/@devpedrofernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@devpedrofernandes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucmedag_qrwyno_9kln2qzma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmedag_qrwyno_9kln2qzma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
