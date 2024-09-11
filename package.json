@@ -1,0 +1,12 @@
+{
+  "name": "simple-git-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "simple-git": "^3.25.0"
+  }
+}
