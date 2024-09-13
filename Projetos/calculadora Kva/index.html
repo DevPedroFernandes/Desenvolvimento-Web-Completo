@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora Kva</title>
+</head>
+
+<body>
+    <div class="forms">
+        <form action="">
+            <h1>Valores de entrada</h1>
+            <div class="">
+                <input value="monofasico    " type="radio" name="valor" id="">
+                <label for="Monofásico">Monofásico</label>
+
+                <input value="trifasico" type="radio" name="valor" id="">
+                <label for="Trifásico">Trifásico</label>
+            </div>
+            <br>
+            <label for="voltagem">Voltagem</label>
+            <div class="voltagem">
+                <input type="number" inputmode="numeric" pattern="[0-9\s]{13,19}" maxlength="19"
+                    placeholder="Insira os dados" />
+                <select name="UnidadeMedida" id="">
+                    <option value="UnidadeMedida">Milivolts</option>
+                    <option value="Volts">Volts</option>
+                    <option value="kv">quilovolsts</option>
+                    <option value="mv">megavolts</option>
+                </select>
+            </div>
+            <br>
+            <label for="corrente"> Corrente</label>
+            <div class="corrente">
+                <input type="number" inputmode="numeric" pattern="[0-9\s]{13,19}" maxlength="19"
+                    placeholder="Insira os dados" />
+
+                <!-- <textarea rows="1" style="resize: none;" name="corrente" id="" inputmode="numeric" ></textarea> -->
+                <select name="corrente" id="">
+                    <option value="UnidadeMedida">Amperes</option>
+                    <option value="Volts">miliamperes</option>
+                    <option value="kv">microamperes</option>
+                </select>
+            </div>
+        </form>
+
+        <form action="">
+            <h2>Valores de saida</h2>
+            <label for="potencia">Potência Kva</label>
+            <input type="number" disabled maxlength="19" placeholder="Quantidade de Kva" />
+            <br> <button>Calcular</button>
+        </form>
+    </div>
+</body>
+
+</html>

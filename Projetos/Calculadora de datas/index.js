@@ -1,5 +1,3 @@
-
-
 document.querySelector('.myButton').addEventListener('click', function (event) {
     event.preventDefault();
     var daysDifference = calculateDateDifference();
@@ -19,9 +17,8 @@ document.querySelector('.myButton').addEventListener('click', function (event) {
     if (date1 < date2) {
         if (date1 < date2) {
             document.querySelector('#result').textContent = faltam;
-
         } else {
-            document.querySelector('#result').textContent = foi;
+            document.querySelector('#result').textContent = faltam;
         }
         // Se a data1 for anterior à data2, significa que ainda faltam dias
     } else {
