@@ -9,50 +9,59 @@
 </head>
 
 <body>
-    <div class="forms">
-        <form action="">
-            <h1>Valores de entrada</h1>
-            <div class="">
-                <input value="monofasico    " type="radio" name="valor" id="">
-                <label for="Monofásico">Monofásico</label>
+    <h1>Kva conversor</h1>
+    <div class="container">
+        <div class="forms">
+            <form action="">
+                <div class="">
+                    <h2>Valores de entrada</h2>
+                    <input value="monofasico" type="radio" name="valor" id="monofasico">
+                    <label for="monofasico">Monofásico/Bifasico</label>
+                    <br>
+                    <input value="trifasico" type="radio" name="valor" id="trifasico">
+                    <label for="trifasico">Trifásico</label>
+                </div>
+                <br>
+                <br>
+                <div class="voltagem">
+                    <input value="127" type="radio" name="volts" id="127">
+                    <label for="127">127Volts</label>
 
-                <input value="trifasico" type="radio" name="valor" id="">
-                <label for="Trifásico">Trifásico</label>
-            </div>
-            <br>
-            <label for="voltagem">Voltagem</label>
-            <div class="voltagem">
-                <input type="number" inputmode="numeric" pattern="[0-9\s]{13,19}" maxlength="19"
-                    placeholder="Insira os dados" />
-                <select name="UnidadeMedida" id="">
-                    <option value="UnidadeMedida">Milivolts</option>
-                    <option value="Volts">Volts</option>
-                    <option value="kv">quilovolsts</option>
-                    <option value="mv">megavolts</option>
-                </select>
-            </div>
-            <br>
-            <label for="corrente"> Corrente</label>
-            <div class="corrente">
-                <input type="number" inputmode="numeric" pattern="[0-9\s]{13,19}" maxlength="19"
-                    placeholder="Insira os dados" />
+                    <input value="220" type="radio" name="volts" id="220">
+                    <label for="220">220Volts</label>
 
-                <!-- <textarea rows="1" style="resize: none;" name="corrente" id="" inputmode="numeric" ></textarea> -->
-                <select name="corrente" id="">
-                    <option value="UnidadeMedida">Amperes</option>
-                    <option value="Volts">miliamperes</option>
-                    <option value="kv">microamperes</option>
-                </select>
-            </div>
-        </form>
+                    <!-- <input value="380" type="radio" name="volts" id="380">
+                    <label for="380">380Volts</label> -->
+                </div>
+                <br>
+                <label for="corrente"> Corrente</label>
+                <div class="corrente">
+                    <label for="fase1"> Fase 1</label>
+                    <input type="number" id="fase1" name="fase1" inputmode="numeric" maxlength="19"
+                        placeholder="Insira os dados" />
+                    <br>
+                    <label for="fase2"> Fase 2</label>
+                    <input type="number" id="fase2" name="fase2" inputmode="numeric" maxlength="19"
+                        placeholder="Insira os dados" />
+                    <br>
+                    <label for="fase3"> Fase 3</label>
+                    <input type="number" id="fase3" name="fase3" inputmode="numeric" maxlength="19"
+                        placeholder="Insira os dados" />
 
-        <form action="">
-            <h2>Valores de saida</h2>
-            <label for="potencia">Potência Kva</label>
-            <input type="number" disabled maxlength="19" placeholder="Quantidade de Kva" />
-            <br> <button>Calcular</button>
-        </form>
+                    <!-- <textarea rows="1" style="resize: none;" name="corrente" id="" inputmode="numeric" ></textarea> -->
+
+                </div>
+            </form>
+
+            <form action="">
+                <h2>Valores de saida</h2>
+                <p id="kva">Potência Kva</p>
+                <br> <button class="myButton">Calcular</button>
+            </form>
+        </div>
     </div>
+
+    <script src="index.js"></script>
 </body>
 
 </html>

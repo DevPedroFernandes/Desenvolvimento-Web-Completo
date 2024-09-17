@@ -1,5 +1,13 @@
 body {
     background-color: #012623;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color: #3aff8f;
+    text-align: center;
+}
+
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,7 +33,7 @@ form {
     flex-direction: column;
 }
 
-.corrente,
+
 .voltagem {
     display: flex;
     align-items: center;
